@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am Ishant Agarwal from India.
-- 🔭 I’m currently working on Next JS, React JS, JS, HTML, CSS.
-- 🌱 I’m currently learning Qwik, Svelte.
+- 🔭 I’m working on Next.js, React.js, JavaScript, TypeScript, HTML, CSS, and performance optimization of web applications.
 - 💬 You can ask me about front-end web development.
 - 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/ishant-agarwal/
 
