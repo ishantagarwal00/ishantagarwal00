@@ -28,7 +28,7 @@ React.js · Next.js · TypeScript · Redux Toolkit · Redux Saga · Tailwind CSS
 ---
 
 ## Resume
-[Download my Resume (PDF)](https://drive.google.com/file/d/1TkFKr_YNeInXeId0LZzOeVPTrBkWEjqm/view?usp=sharing)
+[Download my Resume (PDF)]([https://drive.google.com/file/d/1TkFKr_YNeInXeId0LZzOeVPTrBkWEjqm/view?usp=sharing](https://drive.google.com/file/d/1h4mvGuqkGSIPBDR2xQin1vJcnczdx-Cf/view?usp=sharing))
 
 ---
 
