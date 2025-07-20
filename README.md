@@ -28,11 +28,12 @@ React.js · Next.js · TypeScript · Redux Toolkit · Redux Saga · Tailwind CSS
 ---
 
 ## Resume
-[Download my Resume (PDF)]([https://drive.google.com/file/d/1TkFKr_YNeInXeId0LZzOeVPTrBkWEjqm/view?usp=sharing](https://drive.google.com/file/d/1h4mvGuqkGSIPBDR2xQin1vJcnczdx-Cf/view?usp=sharing))
+[Download my Resume (PDF)](https://drive.google.com/file/d/1h4mvGuqkGSIPBDR2xQin1vJcnczdx-Cf/view?usp=drive_link))
 
 ---
 
 ## Connect
+- 🌐 www.ishantagarwal.dev [Portfolio](https://www.ishantagarwal.dev)
 - 📫 [LinkedIn](https://www.linkedin.com/in/ishant-agarwal/)  
 - 📨 Email: ishantagarwal32@gmail.com
 - - [Medium](https://medium.com/@ishantagarwal)
