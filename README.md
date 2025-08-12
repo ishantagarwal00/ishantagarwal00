@@ -16,8 +16,10 @@ Senior Frontend Engineer with 6+ years’ experience designing and shipping high
 
 | Project                    | Description                                                        | Tech Stack                                    | Repo Link  |
 |----------------------------|--------------------------------------------------------------------|-----------------------------------------------|------------|
+| [Agile Kanban Board](https://agile-kanban-board.vercel.app)         | Kanban board with complete functionalities                          | React.js, TypeScript, Context API,            | [Agile Kanban Board](https://github.com/ishantagarwal00/agile-kanban-board)  |
 | Capsule-X                  | UI-rich SpaceX capsule explorer with advanced filters & modals      | React.js, Redux Toolkit, Redux Saga, CSS, Jest| [Capsule-X](https://github.com/ishantagarwal00/capsule-x)  |
 | Graph Visualization Spike  | Comprehensive evaluation of graph libraries for SaaS dashboards     | React.js, React Flow, TypeScript, Redux       | [Graph Visualization](https://github.com/ishantagarwal00/graph-visualisation-spike)  |
+
 
 ---
 
