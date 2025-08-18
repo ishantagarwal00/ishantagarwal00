@@ -9,7 +9,7 @@ Senior Frontend Engineer with 6+ years’ experience designing and shipping high
 - 🏦 Re-architected enterprise banking apps (Publicis Sapient)
 - 📦 Built logistics products serving millions (Wheelseye)
 - 🌏 Based in Bangkok, open to global relocation & visa sponsorship.
-![](https://komarev.com/ghpvc/?username=ishantagarwal00&style=pixel)
+![ABC](https://komarev.com/ghpvc/?username=ishantagarwal00&style=pixel)
 ---
 
 ## Featured Projects
