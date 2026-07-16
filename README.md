@@ -1,8 +1,8 @@
-🚀 Senior Frontend Engineer | React, Next.js, TypeScript | Building Scalable, Performant UIs Globally
+🚀 Frontend Tech Lead | React, Next.js, TypeScript | Building Scalable, Performant UIs Globally
 
 ## About Me
 
-Senior Frontend Engineer with 6+ years’ experience designing and shipping high-impact web apps at Agoda, Publicis Sapient, and Wheelseye.
+Frontend Tech Lead with 7+ years’ experience designing and shipping high-impact web apps at Makro, Agoda, Publicis Sapient, and Wheelseye.
 
 - 🔧 Expert in React.js, Next.js, TypeScript, Redux Toolkit, and UI performance optimization
 - 🚀 Led frontend for Agoda multicity trips (15% B2B growth)
@@ -36,7 +36,7 @@ React.js · Next.js · TypeScript · Redux Toolkit · Redux Saga · Tailwind CSS
 ## Connect
 - 🌐 [www.ishantagarwal.dev](https://www.ishantagarwal.dev)
 - 📫 [LinkedIn](https://www.linkedin.com/in/ishant-agarwal/)  
-- 📨 Email: ishantagarwal32@gmail.com
+- 📨 Email: work@ishantagarwal.dev
 - ✍️ [Medium](https://medium.com/@ishantagarwal)
 - 🌏 Bangkok (Open to relocation)
 
