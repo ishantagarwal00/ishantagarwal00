@@ -1,62 +1,63 @@
-🚀 Frontend Tech Lead | React, Next.js, TypeScript | Building Scalable, Performant UIs Globally
+# Ishant Agarwal — Frontend Tech Lead
 
-## About Me
+Frontend Tech Lead with 7+ years building scalable frontend systems at **Agoda**, **Makro Pro**, **Publicis Sapient** and **Wheelseye**. Currently based in Bangkok, Thailand. Open to remote worldwide and relocation.
 
-Frontend Tech Lead with 7+ years’ experience designing and shipping high-impact web apps at Makro, Agoda, Publicis Sapient, and Wheelseye.
-
-- 🔧 Expert in React.js, Next.js, TypeScript, Redux Toolkit, and UI performance optimization
-- 🚀 Led frontend for Agoda multicity trips (15% B2B growth)
-- 🏦 Re-architected enterprise banking apps (Publicis Sapient)
-- 📦 Built logistics products serving millions (Wheelseye)
-- 🌏 Based in Bangkok, open to global relocation & visa sponsorship.
----
-
-## Featured Projects
-
-| Project                    | Description                                                        | Tech Stack                                    | Repo Link  |
-|----------------------------|--------------------------------------------------------------------|-----------------------------------------------|------------|
-| [Agile Kanban Board](https://agile-kanban-board.vercel.app)         | Kanban board with complete functionalities                          | React.js, TypeScript, Context API,            | [Agile Kanban Board](https://github.com/ishantagarwal00/agile-kanban-board)  |
-| Capsule-X                  | UI-rich SpaceX capsule explorer with advanced filters & modals      | React.js, Redux Toolkit, Redux Saga, CSS, Jest| [Capsule-X](https://github.com/ishantagarwal00/capsule-x)  |
-| Graph Visualization Spike  | Comprehensive evaluation of graph libraries for SaaS dashboards     | React.js, React Flow, TypeScript, Redux       | [Graph Visualization](https://github.com/ishantagarwal00/graph-visualisation-spike)  |
-
+**Core stack:** React 18+ · Next.js · TypeScript · Design Systems · Micro-frontends · Observability
 
 ---
 
-## Skills & Tools
+## What I do
 
-React.js · Next.js · TypeScript · Redux Toolkit · Redux Saga · Tailwind CSS · SCSS · Design Systems · Performance Optimization · Accessibility (WCAG/ARIA) · Jest · Cypress · Playwright · Agile · REST/GraphQL APIs
+- Architect design systems and component libraries at scale — 50+ components at Makro Pro (Thailand's #1 B2B grocery platform)
+- Build micro-frontend architectures — multi-city booking flow at Agoda (Booking Holdings, $1.57B revenue)
+- Implement full frontend observability stacks — Grafana, Datadog, Sentry, PagerDuty (60% MTTD reduction)
+- Integrate AI into engineering workflows — Claude Code in CI/CD for automated PR review at Makro Pro
+- Drive web performance — Lighthouse 45→96, 32% JS payload reduction, Core Web Vitals across all roles
+
+---
+
+## Featured work
+
+| Project | Stack | Live |
+|---|---|---|
+| Agile Kanban Board | React, TypeScript, Context API, useReducer | [agile-kanban-board.vercel.app](https://agile-kanban-board.vercel.app) |
+| Crypto Wallet Manager | Next.js, Redux Toolkit, ethers.js, AES-256 | [crypto-wallet-collector.vercel.app](https://crypto-wallet-collector.vercel.app) |
+| Graph Visualisation Workflow Builder | React, Redux Toolkit, React Flow | [graph-visualisation-spike.vercel.app](https://graph-visualisation-spike.vercel.app) |
+| Capsule-X — SpaceX Explorer | React, Redux Toolkit, Redux Saga, Tailwind | [capsule-x-k5s1.vercel.app](https://capsule-x-k5s1.vercel.app) |
+
+---
+
+## GitHub Stats
+
+![Ishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishantagarwal00&show_icons=true&theme=dark&hide_border=true&bg_color=080E0F&title_color=C4893A&icon_color=4A9BAF&text_color=F2EDE6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishantagarwal00&layout=compact&theme=dark&hide_border=true&bg_color=080E0F&title_color=C4893A&text_color=F2EDE6)
+
+---
+
+## Writing
+
+Latest on [Medium](https://medium.com/@ishantagarwal) — frontend architecture, React, performance and AI integration.
 
 ---
 
 ## Resume
-[Download my Resume (PDF)](https://drive.google.com/file/d/1L1h8LxL8LBs8FqvWmITMD8dVOpWzrMVb/view?usp=sharing)
-
----
-
-## Connect
-- 🌐 [www.ishantagarwal.dev](https://www.ishantagarwal.dev)
-- 📫 [LinkedIn](https://www.linkedin.com/in/ishant-agarwal/)  
-- 📨 Email: work@ishantagarwal.dev
-- ✍️ [Medium](https://medium.com/@ishantagarwal)
-- 🌏 Bangkok (Open to relocation)
+[View my Resume (PDF)](https://drive.google.com/file/d/1pS_VXOK1OD7Q-Z8bkT0_VeIRu3uKCc7l/view?usp=drive_link)
 
 ---
 
 [![@ishantagarwal's Holopin board](https://holopin.io/api/user/board?user=ishantagarwal)](https://holopin.io/@ishantagarwal)
 
-<!--
-**ishantagarwal00/ishantagarwal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: [ishantagarwal.dev](https://ishantagarwal.dev)
+- Hire me: [ishantagarwal.dev/hire](https://ishantagarwal.dev/hire)
+- LinkedIn: [linkedin.com/in/ishant-agarwal](https://linkedin.com/in/ishant-agarwal)
+- Email: work@ishantagarwal.dev
+- Bangkok, Thailand · UTC+7 · Open to remote & relocation
 
-- ![](https://komarev.com/ghpvc/?username=ishantagarwal00&style=flat)
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=ishantagarwal00&style=flat&color=C4893A)
