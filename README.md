@@ -1,8 +1,8 @@
-# Ishant Agarwal - Frontend Tech Lead
+# Ishant Agarwal - Product Engineer · Frontend Tech Lead
 
-Frontend Tech Lead with 7+ years building scalable frontend systems at **Agoda**, **Makro Pro**, **Publicis Sapient** and **Wheelseye**. Currently based in Bangkok, Thailand. Open to remote worldwide and relocation.
+Product Engineer with 7+ years building scalable, real-time frontend systems at **Agoda**, **Makro Pro**, **Publicis Sapient**, and **Wheelseye**. Currently based in Bangkok, Thailand. Open to remote worldwide and relocation.
 
-**Core stack:** React 18+ · Next.js · TypeScript · Design Systems · Micro-frontends · Observability
+**Core stack:** React 18+ · Next.js · TypeScript · Redux Toolkit · State Management · Real-time Data · Design Systems · Micro-frontends · Observability
 
 ---
 
@@ -20,10 +20,11 @@ Frontend Tech Lead with 7+ years building scalable frontend systems at **Agoda**
 
 | Project | Stack | Live |
 |---|---|---|
-| Agile Kanban Board | React, TypeScript, Context API, useReducer | [agile-kanban-board.vercel.app](https://agile-kanban-board.vercel.app) |
+| Workflow Blueprint | React, Redux Toolkit, React Flow | [workflow-blueprint.vercel.app](https://workflow-blueprint.vercel.app) |
+| Fleet Explorer | React, TypeScript, Vite | [fleet-explorer-five.vercel.app](https://fleet-explorer-five.vercel.app) |
 | Crypto Wallet Manager | Next.js, Redux Toolkit, ethers.js, AES-256 | [crypto-wallet-collector.vercel.app](https://crypto-wallet-collector.vercel.app) |
-| Graph Visualisation Workflow Builder | React, Redux Toolkit, React Flow | [graph-visualisation-spike.vercel.app](https://graph-visualisation-spike.vercel.app) |
 | Capsule-X - SpaceX Explorer | React, Redux Toolkit, Redux Saga, Tailwind | [capsule-x-k5s1.vercel.app](https://capsule-x-k5s1.vercel.app) |
+| Agile Kanban Board | React, TypeScript, Context API, useReducer | [agile-kanban-board.vercel.app](https://agile-kanban-board.vercel.app) |
 
 ---
 
