@@ -46,9 +46,9 @@ Latest on Medium, frontend architecture, React, performance, and AI integration.
 
 ## Connect
 
-- Portfolio: ishantagarwal.dev
-- Hire me: ishantagarwal.dev/hire
-- LinkedIn: linkedin.com/in/ishant-agarwal
+- Portfolio: [ishantagarwal.dev](http://ishantagarwal.dev/) 
+- Hire me: [ishantagarwal.dev/hire](https://www.ishantagarwal.dev/hire)
+- LinkedIn: [linkedin.com/in/ishant-agarwal](https://www.linkedin.com/in/ishant-agarwal/)
 - Email: work@ishantagarwal.dev
 
 Bangkok, Thailand · UTC+7 · Open to remote and relocation
