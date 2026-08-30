@@ -42,7 +42,7 @@ Latest on Medium, frontend architecture, React, performance, and AI integration.
 
 ## Resume
 
-[View my Resume (PDF)](https://www.ishantagarwal.dev/resume)
+[View my Resume (PDF)](https://drive.google.com/file/d/13q4l14mvYgtrCfsPSPeMjVtDvflgKUqB/view?usp=sharing)
 
 [@ishantagarwal's Holopin board](https://holopin.io/@ishantagarwal00)
 
