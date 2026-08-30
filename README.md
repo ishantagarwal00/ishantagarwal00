@@ -1,62 +1,55 @@
-# Ishant Agarwal - Product Engineer · Frontend Tech Lead
+# Ishant Agarwal
 
-Product Engineer with 7+ years building scalable, real-time frontend systems at **Agoda**, **Makro Pro**, **Publicis Sapient**, and **Wheelseye**. Currently based in Bangkok, Thailand. Open to remote worldwide and relocation.
+**Senior Frontend Engineer**
 
-**Core stack:** React 18+ · Next.js · TypeScript · Redux Toolkit · State Management · Real-time Data · Design Systems · Micro-frontends · Observability
+Senior Frontend Engineer who sees what's coming before it arrives and builds for it before anyone asks. 7 years shipping real-time, high-traffic products at Agoda, Lloyds Banking Group, and WheelsEye, now leading frontend architecture across CP Axtra. Based in Bangkok, open to remote worldwide and relocation.
 
----
+**Core stack:** TypeScript · React · Next.js · Node.js · NestJS · GraphQL · SSE / WebSockets · Redux Toolkit · TanStack Query · Module Federation / Micro-frontends · Design Systems · Claude Code in CI/CD · Grafana / Datadog / Sentry
+
+## Signature work
+
+**Agoda, one of the world's largest travel platforms.** Agoda had no product for multi-city itineraries. I built and owned that segment end to end: frontend, NestJS BFF orchestration, API contracts, and a phased rollout. An A/B test showed a 15% adoption lift across 68M+ annual flight tickets. In the same booking flow, I traced performance bottlenecks nobody had connected to conversion loss, cut JavaScript payloads 32%, and lifted mobile booking conversion 8%.
 
 ## What I do
 
-- Architect design systems and component libraries at scale - 50+ components at Makro Pro (Thailand's #1 B2B grocery platform)
-- Build micro-frontend architectures - multi-city booking flow at Agoda (Booking Holdings, $1.57B revenue)
-- Implement full frontend observability stacks - Grafana, Datadog, Sentry, PagerDuty (60% MTTD reduction)
-- Integrate AI into engineering workflows - Claude Code in CI/CD for automated PR review at Makro Pro
-- Drive web performance - Lighthouse 45→96, 32% JS payload reduction, Core Web Vitals across all roles
-
----
+- Lead the frontend platform, component library, and design system 12+ engineers build on across 3 CP Axtra verticals, cutting UI build time by 40%
+- Put Claude Code into CI/CD to catch Core Web Vitals, design-system, and accessibility regressions on 100% of PRs, cutting review cycle time by 30%
+- Own features end to end. At Agoda, multi-city flights drove a 15% adoption lift in an A/B test across 68M+ annual flight tickets
+- Build real-time UI at scale. Chose SSE over WebSockets to stream live telemetry to 2M+ trucks and 1M+ fleet owners at WheelsEye
+- Drive web performance. Lighthouse 45 to 96 and a #1 Google ranking at WheelsEye, a 32% JS payload cut and 8% mobile conversion lift at Agoda
+- Keep systems reliable. 99.9% uptime for 8.1M banking users at Lloyds, and CP Axtra's first incident and on-call process for 15 engineers
 
 ## Featured work
 
 | Project | Stack | Live |
 |---|---|---|
-| Workflow Blueprint | React, Redux Toolkit, React Flow | [workflow-blueprint.vercel.app](https://workflow-blueprint.vercel.app) |
-| Fleet Explorer | React, TypeScript, Vite | [fleet-explorer-five.vercel.app](https://fleet-explorer-five.vercel.app) |
-| Crypto Wallet Manager | Next.js, Redux Toolkit, ethers.js, AES-256 | [crypto-wallet-collector.vercel.app](https://crypto-wallet-collector.vercel.app) |
-| Capsule-X - SpaceX Explorer | React, Redux Toolkit, Redux Saga, Tailwind | [capsule-x-k5s1.vercel.app](https://capsule-x-k5s1.vercel.app) |
-| Agile Kanban Board | React, TypeScript, Context API, useReducer | [agile-kanban-board.vercel.app](https://agile-kanban-board.vercel.app) |
-
----
+| Workflow Blueprint | React, Redux Toolkit, React Flow | workflow-blueprint.vercel.app |
+| Fleet Explorer | React, TypeScript, Vite | fleet-explorer-five.vercel.app |
+| Crypto Wallet Manager | Next.js, Redux Toolkit, ethers.js, AES-256 | crypto-wallet-collector.vercel.app |
+| Capsule-X, SpaceX Explorer | React, Redux Toolkit, Redux Saga, Tailwind | capsule-x-k5s1.vercel.app |
+| Agile Kanban Board | React, TypeScript, Context API, useReducer | agile-kanban-board.vercel.app |
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ishantagarwal00&theme=dark&hide_border=true&background=080E0F&stroke=1A2A2E&ring=C4893A&fire=C4893A&currStreakLabel=F2EDE6)](https://github.com/ishantagarwal00)
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=ishantagarwal00&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishantagarwal00)
+![GitHub Streak](https://streak-stats.demolab.com?user=ishantagarwal00)
 
 ## Writing
 
-Latest on [Medium](https://medium.com/@ishantagarwal) — frontend architecture, React, performance and AI integration.
-
----
+Latest on Medium, frontend architecture, React, performance, and AI integration.
 
 ## Resume
-[View my Resume (PDF)](https://drive.google.com/file/d/1pS_VXOK1OD7Q-Z8bkT0_VeIRu3uKCc7l/view?usp=drive_link)
 
----
+[View my Resume (PDF)](https://www.ishantagarwal.dev/resume)
 
-[![@ishantagarwal's Holopin board](https://holopin.io/api/user/board?user=ishantagarwal)](https://holopin.io/@ishantagarwal)
-
----
+[@ishantagarwal's Holopin board](https://holopin.io/@ishantagarwal00)
 
 ## Connect
 
-- Portfolio: [ishantagarwal.dev](https://ishantagarwal.dev)
-- Hire me: [ishantagarwal.dev/hire](https://ishantagarwal.dev/hire)
-- LinkedIn: [linkedin.com/in/ishant-agarwal](https://linkedin.com/in/ishant-agarwal)
+- Portfolio: ishantagarwal.dev
+- Hire me: ishantagarwal.dev/hire
+- LinkedIn: linkedin.com/in/ishant-agarwal
 - Email: work@ishantagarwal.dev
-- Bangkok, Thailand · UTC+7 · Open to remote & relocation
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=ishantagarwal00&style=flat&color=C4893A)
+Bangkok, Thailand · UTC+7 · Open to remote and relocation
