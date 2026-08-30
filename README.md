@@ -32,7 +32,9 @@ Senior Frontend Engineer who sees what's coming before it arrives and builds for
 ## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishantagarwal00&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishantagarwal00)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishantagarwal00&show_icons=true&cache_seconds=86400)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ishantagarwal00)
 
 ## Writing
